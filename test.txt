@@ -1,0 +1,14 @@
+
+ --------------------------
+ EXAMPLE DOCUMENT TO PARSE
+ --------------------------
+
+ [#DEF]: Oreolization | The realization that oreos are still in your kitchen.
+ 
+    * Oreolization was valued in western culture 
+    * Oreos actually cured canser
+    [#DEF]: Yuge |  A variation of the word HUGE commonly used by Donald Trump.
+    
+  [#Q]: Who frequently used the word Yuge, and what does it mean?
+        Donald Trump frequently used it, and it is just a variation of the word "Huge". Significance is unknown. 
+
